@@ -7,6 +7,6 @@ b) Login page
 c) Database integration
 d) Payment gateway integration
 e) Previous events etc.
-Please go through the files and make neccessary and update it in git.
+Please go through the files and make neccessary changes and update it in git.
 Thank you
 Webflow
